@@ -96,7 +96,7 @@
 
   <h1>👀 HacktoberFest Badges</h1>
   <div align="center">
-  <img src="[![An image of @anjalis14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjalis14)](https://holopin.io/@anjalis14)" width="80%" height="80%" />
+  [![An image of @anjalis14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjalis14)](https://holopin.io/@anjalis14) width="80%" height="80%" />
   </div>
 
 
