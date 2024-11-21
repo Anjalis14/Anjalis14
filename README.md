@@ -97,7 +97,7 @@
 <details open>
   <summary><h1>👀 HacktoberFest Badges</h1></summary>
   <div align="center">
-  <img src="https://www.holopin.io/@anjalis14#" width="80%" height="80%" />
+  <img src="https://www.holopin.io/@anjalis14" width="80%" height="80%" />
   </div>
 </details>
 
@@ -120,11 +120,6 @@
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://visitcount.itsvg.in/api?id=Anjalis14&icon=0&color=green)](https://visitcount.itsvg.in)" alt="visitor badge"/></p>
 <br>
-
-<p align="center">
-  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
-</p>
-
 <p align="center"><b>Daily Dose !!</b></p>
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivation" /></p>
